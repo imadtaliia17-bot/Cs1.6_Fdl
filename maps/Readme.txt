@@ -1,0 +1,1 @@
+Put everything in cstrike/maps folder. Map By *IgineX
